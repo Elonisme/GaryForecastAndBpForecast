@@ -1,2 +1,2 @@
-# Matlab_Code
-数学建模matlab常用的一些算法
+# 时序分析
+灰色预测和PB神经网络预测以及AMMA预测
